@@ -2,7 +2,7 @@
 
 Welcome to **CampusLink**, a modern web-based Campus Information System designed to streamline and enhance the campus experience for students, faculty, and administrative staff.
 
-Explore the live demo of CampusLink: [CampusLink Live Demo](https://your-live-demo-link.com) <!-- Replace with your live demo link -->
+Explore the live demo of CampusLink: [CampusLink Live Demo](https://badhanhitesh.github.io/CampusLink/) <!-- Replace with your live demo link -->
 
 ## 📜 Overview
 
